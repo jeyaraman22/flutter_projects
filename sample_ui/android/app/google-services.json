@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129998395849",
+    "project_id": "multi-room",
+    "storage_bucket": "multi-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129998395849:android:cf12b2338bdf4babea3018",
+        "android_client_info": {
+          "package_name": "com.example.sample_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129998395849-88eqaesrfi36eavoeianmv1rtv5iq8vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEsMQJCTC9-qMDXrdFDPgr478y1HLIQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129998395849-88eqaesrfi36eavoeianmv1rtv5iq8vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

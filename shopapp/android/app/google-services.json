@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310411661188",
+    "project_id": "shop-flut-app",
+    "storage_bucket": "shop-flut-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310411661188:android:90ce9fc617d23d011217d1",
+        "android_client_info": {
+          "package_name": "com.example.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310411661188-mvs2886dfkbuej09jr2omdcqpcj6f55i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMeKzWc308yEaIdkNvsUzChG272l7yQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310411661188-mvs2886dfkbuej09jr2omdcqpcj6f55i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
