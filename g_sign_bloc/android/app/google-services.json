@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106788054482",
+    "project_id": "g-signin-bloc",
+    "storage_bucket": "g-signin-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106788054482:android:58bbe9598023bd6542140b",
+        "android_client_info": {
+          "package_name": "com.example.g_sign_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106788054482-k6apphkfog7dtsvnvdlqd1p5vproh7k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.g_sign_bloc",
+            "certificate_hash": "7eb8854236d4f902baea5a11824e19cf15ad96b2"
+          }
+        },
+        {
+          "client_id": "106788054482-1ldi0ogmvpmrdfr0btsn8v2r2l4mt85g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbgCVUKx-0byHSkUP2XIpMiu-7jNxRYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106788054482-1ldi0ogmvpmrdfr0btsn8v2r2l4mt85g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

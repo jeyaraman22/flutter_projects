@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645995661934",
+    "project_id": "jazoffersection",
+    "storage_bucket": "jazoffersection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645995661934:android:f40fa30f5f348595b4b47f",
+        "android_client_info": {
+          "package_name": "com.example.jaz_offer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645995661934-reqnr116ger26nnml8svuamcd3sl528t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl-hlKDrs_JHNyIDJRzsQrgG5gEMxcDCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645995661934-reqnr116ger26nnml8svuamcd3sl528t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
